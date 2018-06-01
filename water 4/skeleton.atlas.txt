@@ -1,0 +1,48 @@
+
+skeleton.png
+size: 1283,1283
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+conduit
+  rotate: true
+  xy: 498, 492
+  size: 408, 661
+  orig: 408, 661
+  offset: 0, 0
+  index: -1
+conduit_2
+  rotate: true
+  xy: 332, 119
+  size: 371, 617
+  orig: 371, 617
+  offset: 0, 0
+  index: -1
+conduit_3
+  rotate: true
+  xy: 498, 902
+  size: 379, 698
+  orig: 379, 698
+  offset: 0, 0
+  index: -1
+conduit_4
+  rotate: false
+  xy: 2, 589
+  size: 494, 692
+  orig: 494, 692
+  offset: 0, 0
+  index: -1
+conduit_5
+  rotate: true
+  xy: 951, 57
+  size: 433, 330
+  orig: 433, 330
+  offset: 0, 0
+  index: -1
+water_7
+  rotate: false
+  xy: 2, 108
+  size: 328, 479
+  orig: 328, 479
+  offset: 0, 0
+  index: -1
